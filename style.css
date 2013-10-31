@@ -17,7 +17,8 @@ a {
 /*NAVIGATION SETTINGS*/
 .nav-bar {
     width: 100%;
-    background: #222;
+    background: #666;
+    height: 4em;
 }
 
 .nav-hold {
@@ -27,13 +28,15 @@ a {
 .nav-logo {
     float: left;
     display: block;
-    padding: 20px 10px;
-    color: #f9f9f9;
+    padding: 10px;
+    color: #FFF;
     font-weight: 600;
+    font-size: 1.5em;
 }
 
 .nav-list {
     float: right;
+    list-style: none;
 }
 
 .nav-list li {
@@ -42,8 +45,9 @@ a {
 
 .nav-list li a {
     display: block;
-    padding: 20px 10px;
-    color: #f9f9f9;
+    padding: 10px;
+    color: #550000;
+    font-weight: 400;
 }
 
 .nav-menu {
