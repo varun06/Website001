@@ -29,7 +29,7 @@ a {
     float: left;
     display: block;
     padding: 10px;
-    color: #FFF;
+    color: blue;
     font-weight: 600;
     font-size: 1.5em;
 }
@@ -46,7 +46,7 @@ a {
 .nav-list li a {
     display: block;
     padding: 10px;
-    color: #550000;
+    color: #FFF;
     font-weight: 400;
 }
 
